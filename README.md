@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBeichert
+- 👋 Hi, I’m Julian Beichert
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me beichertjulian@gmail.com

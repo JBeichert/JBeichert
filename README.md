@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian Beichert
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning typescript and psql
+- 🌱 I’m currently learning typescript and pspgsql
 - 📫 How to reach me beichertjulian@gmail.com
 
 <!---

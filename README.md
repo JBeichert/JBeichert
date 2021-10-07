@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Julian Beichert
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning typescript and pspgsql
-- 📫 How to reach me beichertjulian@gmail.com
+- Hi, I’m Julian Beichert
+- I’m currently learning typescript/javascript, vue3 and node
+- You can reach me by mail -> beichertjulian@gmail.com
 
 <!---
 JBeichert/JBeichert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

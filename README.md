@@ -1,5 +1,5 @@
 - Hi, I’m Julian Beichert
-- I’m currently learning typescript/javascript, vue3 and node
+- I’m currently learning typescript/javascript, vue3, node and plpgsql
 - You can reach me by mail -> beichertjulian@gmail.com
 
 <!---
